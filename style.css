@@ -1,0 +1,21 @@
+/*
+ Theme Name:   EggNews Child
+ Theme URI:    http://themeegg.com/eggnews-child/
+ Description:  EggNews Child Theme
+ Author:       ThemeEgg
+ Author URI:   http://themeegg.com
+ Template:     EggNews
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         news , magazine, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  eggnews-child
+
+*/
+/*
+Please remove this background color, this is just for sample.
+ */
+body{
+
+    background:red;
+}
